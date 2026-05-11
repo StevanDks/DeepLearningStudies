@@ -1,0 +1,20 @@
+# Kaggle credentials
+kaggle.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.zip
+*.tar.gz
+
+# Virtual environment
+venv/
+.venv/
