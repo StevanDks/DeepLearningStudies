@@ -36,6 +36,7 @@ A collection of deep learning notebooks developed during university studies, cov
 
 - **Python 3**
 - **PyTorch** — deep learning framework
+- **TensorFlow / Keras** — used in transfer learning notebook
 - **Transformers (HuggingFace)** — ViT and BERT models
 - **Scikit-learn** — classic ML utilities
 - **Pandas / NumPy** — data manipulation
